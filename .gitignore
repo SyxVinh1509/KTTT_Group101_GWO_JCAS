@@ -1,0 +1,14 @@
+# Bỏ qua thư mục cache của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bỏ qua môi trường ảo (nếu có)
+venv/
+env/
+.env
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db
+
