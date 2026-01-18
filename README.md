@@ -40,7 +40,7 @@ PRJ_GWO/
 │
 └── README.md                     # Tài liệu hướng dẫn
 
-⚙️ Cài đặt (Installation)
+## ⚙️ Cài đặt (Installation)
 Dự án yêu cầu Python 3.x và các thư viện tính toán khoa học cơ bản.
 
 1.clone dự án
@@ -66,7 +66,7 @@ Kết quả: Sẽ lưu file ảnh vào thư mục SRC/JCAS/.
 Đây là phần trọng tâm của đồ án, thể hiện sự cải tiến về hiệu năng.
     python SRC/GWO_PSO+JCAS/gwo_pso_in_jcas.py
 
-📊 Kết quả (Results)
+## 📊 Kết quả (Results)
 Dưới đây là tóm tắt so sánh hiệu năng giữa 3 thuật toán trên hệ thống 64 anten (N=64) với hướng mục tiêu tại 0 và -40 độ:
 
 | Thuật toán | Tốc độ hội tụ | Khả năng tìm kiếm toàn cục | Chất lượng nghiệm (Error) |
@@ -77,6 +77,6 @@ Dưới đây là tóm tắt so sánh hiệu năng giữa 3 thuật toán trên 
 
 Hybrid GWO-PSO khắc phục được nhược điểm hội tụ sớm của TS-ILS và tốc độ chậm của GWO nhờ cơ chế cập nhật vận tốc có hướng.
 
-👥 Tác giả (Authors)
+## 👥 Tác giả (Authors)
 - Lê Minh Trọng (20239675)
 - Nguyễn Sỹ Vinh (20235875)
