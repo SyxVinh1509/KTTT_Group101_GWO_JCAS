@@ -15,9 +15,6 @@ Chúng tôi so sánh hiệu năng của ba phương pháp:
 
 ## 📂 Cấu trúc Thư mục (Project Structure)
 
-Mã nguồn được tổ chức trong thư mục `SRC` như sau:
-
-```text
 PRJ_GWO/
 ├── SRC/
 │   ├── GWO/
@@ -41,6 +38,7 @@ PRJ_GWO/
 └── README.md                     # Tài liệu hướng dẫn
 
 ## ⚙️ Cài đặt (Installation)
+
 Dự án yêu cầu Python 3.x và các thư viện tính toán khoa học cơ bản.
 
 1.clone dự án
